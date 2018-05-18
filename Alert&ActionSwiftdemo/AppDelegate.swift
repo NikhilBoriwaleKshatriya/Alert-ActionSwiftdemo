@@ -3,7 +3,7 @@
 //  Alert&ActionSwiftdemo
 //
 //  Created by nikhil boriwale on 5/4/18.
-//  Copyright © 2018 infostretch. All rights reserved.
+
 //
 
 import UIKit
